@@ -4,8 +4,8 @@ bio:                '我就是我 味道不一样的水果'
 description:        "Is it me who you are looking for?"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/xst.png'
-background:         'assets/img/bg.png'
+logo:               'assets/img/xst.jpg'
+background:         'assets/img/bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://www.xuesitong.cc
