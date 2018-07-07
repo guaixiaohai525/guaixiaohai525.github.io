@@ -8,5 +8,3 @@ comments: true
 ---
     
 <center><a href="www.xuesitong.cc"><b>薛思彤</b></a> 就是我</center>
-
-

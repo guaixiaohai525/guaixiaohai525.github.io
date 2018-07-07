@@ -25,3 +25,6 @@ comments: true
 家给你
 一腔孤勇和余生六十年
 全都给你
+
+
+-- [Just](http://www.luoxi.tech)
