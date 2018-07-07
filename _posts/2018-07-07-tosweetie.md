@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: post
 title: 写给宝贝的第一篇博客
-tags: [just]
-date: 2018-07-7
+date: 2018-07-07
+project: true
+tag:
+- just 
+- blog
 comments: true
 ---
 
