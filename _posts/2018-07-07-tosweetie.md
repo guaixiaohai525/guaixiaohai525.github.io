@@ -2,7 +2,7 @@
 layout: post
 title: "写给宝贝的第一篇博客"
 date: 2018-07-07
-excerpt: "A ton of text to test readability with image feature."
+excerpt: "For my sweetie."
 tags: [Just]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
