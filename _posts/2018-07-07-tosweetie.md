@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 写给宝贝的第一篇博客
+title: "写给宝贝的第一篇博客"
 date: 2018-07-07
-project: true
-tag:
-- just 
-- blog
+excerpt: "A ton of text to test readability with image feature."
+tags: [Just]
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
 
